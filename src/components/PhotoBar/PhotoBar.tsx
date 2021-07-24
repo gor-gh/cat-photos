@@ -59,7 +59,6 @@ const PhotoBar = () => {
       });
   }
 
-  // @ts-ignore
   return (
     <div>
       <button
